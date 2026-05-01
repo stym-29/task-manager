@@ -172,8 +172,8 @@ team-task-manager/
 
 ## 👨‍💻 Developer
 
-**Himanshu Ranjan**
-- GitHub: [@imhr45](https://github.com/imhr45)
+**Satyam chaubey**
+- GitHub: [@imhr45](https://github.com/stym-29)
 
 ---
 
